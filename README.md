@@ -6,8 +6,8 @@ Liquefy
 Presenter        | Topic
 ---------------- | ------------------------------
 Thomas Matthews  | CUDA – Parallel Computing
-TBD     		 | TBD
-TBD     		 | TBD
+Ryan Kwong    	 | GDC 2014: Lessons in Player Engagement and Information Retention
+TBD     		     | TBD
 
 --------------------------------------------------
 
