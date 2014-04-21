@@ -9,7 +9,7 @@ Thomas Matthews  | CUDA – Parallel Computing
 TBD     		 | TBD
 TBD     		 | TBD
 
-
+-----------------------------------------
 
 Liquefy 1 (04/16/2014)
 
