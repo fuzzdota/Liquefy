@@ -1,6 +1,16 @@
 Liquefy
 =======
 
+Liquefy 2 (04/30/2014)
+
+Presenter        | Topic
+---------------- | ------------------------------
+Thomas Matthews  | CUDA – Parallel Computing
+TBD     		 | TBD
+TBD     		 | TBD
+
+
+
 Liquefy 1 (04/16/2014)
 
 Presenter        | Topic
