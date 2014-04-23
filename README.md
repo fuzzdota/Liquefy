@@ -7,7 +7,7 @@ Presenter        | Topic
 ---------------- | ------------------------------
 Thomas Matthews  | CUDA – Parallel Computing
 Ryan Kwong    	 | GDC 2014: Lessons in Player Engagement and Information Retention
-TBD     		     | TBD
+Zachary Michaels | Point Cloud
 
 --------------------------------------------------
 
